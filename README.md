@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="featured_image.gif" alt="" width="80%">
+</p>
+
+---
+
 # Kaggle_TerrainTypes
 
 ## Overview
@@ -60,7 +66,3 @@ The goal is to understand their architectural differences, strengths, weaknesses
 * **Iterate:** Based on initial results, you can perform hyperparameter tuning (learning rate, weight decay, epochs, augmentation strength) for the most promising model(s).
 
 By empirically comparing these architectures on your specific terrain data, you can make an informed decision about which model best suits your needs. Good luck!
-
----
-
-![](featured_image.jpg)
